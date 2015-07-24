@@ -1,11 +1,11 @@
 #Exhibit A
 
-*I. Scope of Work*
+**I. Scope of Work**
 <br>Consultant will perform the following work:
 
 [describe the work to be performed, in as much detail as practicable]
 
-*II. Consideration*
+**II. Consideration**
 <br>Company agrees to pay Consultant for the above work under the following terms:
 
 Consultant shall be paid [describe the payment terms]
@@ -14,7 +14,7 @@ Consultant shall be paid [describe the payment terms]
 
 
 ###Terms Examples
-<br>(use one)
+<p>(use one)
 
 * a flate rate of $[total amount]
 * an hourly rate of $[rate] per hour, to be billed to the nearest 15 minutes.
@@ -24,7 +24,7 @@ Consultant shall be paid [describe the payment terms]
 * a monthly flat rate of $[monthly amount].
 
 ###Structure Examples
-<br>(use one, make sure it matches the terms)
+<p>(use one, make sure it matches the terms)
 
 * Consultant shall send a bill to Company via email or regular mail on a (use one: weekly, bi-weekly, monthly, bi-monthly) basis, with payment due within (use one: 5, 10, 15, 30) days after receipt. If the bill is sent via email, receipt will be deemed within 12 hours of transmission. If the bill is sent via regular mail, receipt will be deemed within 5 days of sending to Company's address.
 
