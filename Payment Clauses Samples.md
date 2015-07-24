@@ -1,12 +1,12 @@
 #Exhibit A
 
-I. Scope of Work
-<br>1.1. Consultant will perform the following work:
+*I. Scope of Work*
+<br>Consultant will perform the following work:
 
 [describe the work to be performed, in as much detail as practicable]
 
-II. Consideration
-<br>2.1. Company agrees to pay Consultant for the above work under the following terms:
+*II. Consideration*
+<br>Company agrees to pay Consultant for the above work under the following terms:
 
 Consultant shall be paid [describe the payment terms]
   
