@@ -1,4 +1,4 @@
--> #Exhibit A <-
+-> #Exhibit A
 
 1. Scope of Work
  1.1. Consultant will perform the following work:
