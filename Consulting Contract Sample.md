@@ -1,6 +1,6 @@
 # **Consulting Agreement**
 
-This agreement, dated __/__/____ ("Effective Date"), is made between [NAME] ("Consultant") and [CLIENT] ("Company"). Consultant agrees to provide the Company with professional services as described below, under the following terms and conditions.
+This agreement, dated mm/dd/yyyy ("Effective Date"), is made between [NAME] ("Consultant") and [CLIENT] ("Company"). Consultant agrees to provide the Company with professional services as described below, under the following terms and conditions.
 
 ## **Terms**
 
@@ -54,27 +54,27 @@ XI. Misc <br>
   All notices under this Agreement shall be in writing, and deemed given when personally delivered or sent by email or other reliable electronic means, or five days after being sent by regular mail to the last known address of the party.
 <br>
 XII. Company and Consultant agree to the terms of this Agreement and all attached Exhibits.
+<br><br>
+COMPANY:
+
+____________________________________
+Signature
+
+____________________________________
+Printed Name & Title
+ 
+__________________
+Date
 <br>
-> COMPANY:
->
-> ____________________________________
-> Signature
->
-> ____________________________________
-> Printed Name & Title
-> 
-> __________________
-> Date
->
->
-> CONSULTANT:
-> 
-> ____________________________________
-> Signature
-> 
-> ____________________________________
-> Printed Name & Title
-> 
-> __________________
-> Date
+
+CONSULTANT:
+
+____________________________________
+Signature
+
+____________________________________
+Printed Name & Title
+ 
+__________________
+Date
 
