@@ -12,7 +12,8 @@ Consultant shall be paid [describe the payment terms]
   
 [optional: Describe the payment structure]
 
-
+________________________________
+<p>Consider basing your terms and structure descriptions off of these examples:
 ###Terms Examples
 <p>(use one)
 
