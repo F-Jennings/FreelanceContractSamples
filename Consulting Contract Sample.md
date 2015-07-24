@@ -1,6 +1,6 @@
 # **Consulting Agreement**
 
-This agreement, dated mm/dd/yyyy ("Effective Date"), is made between [NAME] ("Consultant") and [CLIENT] ("Company"). Consultant agrees to provide the Company with professional services as described below, under the following terms and conditions.
+This agreement, dated mm/dd/yyyy ("Effective Date"), is made between NAME ("Consultant") and CLIENT ("Company"). Consultant agrees to provide the Company with professional services as described below, under the following terms and conditions.
 
 ## **Terms**
 
